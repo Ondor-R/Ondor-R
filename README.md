@@ -3,10 +3,10 @@
 <br>
 
 $$
-\texttt{Hi, my name is Reyhan Oktavian (Ondor-R online).} \\
-\texttt{I'm a college student and a self-learner of designs, arts, and programming.} \\
-\texttt{I also dabble in 3D modeling and creative writing.} \\
-\texttt{Passionate about reading fantasy and driven to master the arts—} \\
+\texttt{Hi, my name is Reyhan Oktavian (Ondor-R online).} \\ <br>
+\texttt{I'm a college student and a self-learner of designs, arts, and programming.} \\ <br>
+\texttt{I also dabble in 3D modeling and creative writing.} \\ <br>
+\texttt{Passionate about reading fantasy and driven to master the arts—} \\ <br>
 \texttt{knowing how to code is just the cherry on top!}
 $$
 
