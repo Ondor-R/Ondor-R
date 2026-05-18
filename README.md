@@ -1,9 +1,13 @@
-<img width="1452" height="735" alt="d9yaglh-8be26859-e719-4aa3-8db3-2b5582bebe2f" src="https://github.com/user-attachments/assets/d918d9a8-2d96-426f-906f-642dab4bd5e4" />
+<img width="1452" height="735" alt="dfety8v-35ceac0b-83f5-4178-847c-c68e188de9d8" src="https://github.com/user-attachments/assets/a07606de-1a5e-45f9-b120-46e0f3f4e4d3" />
+
 
 <br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Ondor%20-%20R&section=header&textBg=false&fontColor=24fff0&reversal=false">
+</div>
 
 <p align="center">
-  Hi, my name is Reyhan Oktavian (Ondor-R).
+  Hi, my name is Reyhan Oktavian.
   I'm a college student and a self-learner of <b>designs, arts, and programming</b>.
   I also dabble in <b>3D modeling</b> and <b>writing</b>.
   Passionately love reading fiction and so so much love to be master at art.
