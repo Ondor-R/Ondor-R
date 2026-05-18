@@ -14,6 +14,14 @@
   knowing how to code is just the cherry on top!
 </p>
 
+<p align="center">
+  <a href="mailto:rehanondor@email.com"><img src="https://img.shields.io/badge/Email-CONTACT-%2324fff0?logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/moonbruh_/"><img src="https://img.shields.io/badge/Instagram-FOLLOW-%2324fff0?logo=instagram&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src:"https://komarev.com/ghpvc/?username=Ondor-R&style=flat&color=24fff0">
+</p>
 <!--
 **Ondor-R/Ondor-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
