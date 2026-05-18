@@ -2,13 +2,13 @@
 
 <br>
 
-$$
-\texttt{Hi, my name is Reyhan Oktavian (Ondor-R online).} \\ <br>
-\texttt{I'm a college student and a self-learner of designs, arts, and programming.} \\ <br>
-\texttt{I also dabble in 3D modeling and creative writing.} \\ <br>
-\texttt{Passionate about reading fantasy and driven to master the arts—} \\ <br>
-\texttt{knowing how to code is just the cherry on top!}
-$$
+<p align="center">
+  Hi, my name is Reyhan Oktavian (Ondor-R).
+  I'm a college student and a self-learner of <b>designs, arts, and programming</b>.
+  I also dabble in <b>3D modeling</b> and <b>writing</b>.
+  Passionately love reading fiction and so so much love to be master at art.
+  knowing how to code is just the cherry on top!
+</p>
 
 <!--
 **Ondor-R/Ondor-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
