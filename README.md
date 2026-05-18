@@ -1,11 +1,12 @@
 <img width="1452" height="735" alt="d9yaglh-8be26859-e719-4aa3-8db3-2b5582bebe2f" src="https://github.com/user-attachments/assets/d918d9a8-2d96-426f-906f-642dab4bd5e4" />
 
 <br>
+
 $$
-\texttt{Hi, my name is Reyhan Oktavian (Ondor-R).} \\
+\texttt{Hi, my name is Reyhan Oktavian (Ondor-R online).} \\
 \texttt{I'm a college student and a self-learner of designs, arts, and programming.} \\
 \texttt{I also dabble in 3D modeling and creative writing.} \\
-\texttt{Passionate about reading fiction and driven to master the arts—} \\
+\texttt{Passionate about reading fantasy and driven to master the arts—} \\
 \texttt{knowing how to code is just the cherry on top!}
 $$
 
